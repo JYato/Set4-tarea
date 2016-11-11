@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1478864125 source:d:\polygon\main.cpp
+	<iostream>
+	"point.h"
+	"pointarray.h"
+	"poligono.h"
+
+1478839530 d:\polygon\point.h
+
+1478839530 d:\polygon\pointarray.h
+	"point.h"
+
+1477506755 d:\polygon\vector.h
+	"point.h"
+
+1478839530 source:d:\polygon\point.cpp
+	<iostream>
+	"point.h"
+
+1478839530 source:d:\polygon\pointarray.cpp
+	<iostream>
+	<new>
+	"point.h"
+	"pointarray.h"
+
+1477502839 source:d:\polygon\vector.cpp
+	"Vector.h"
+	"Point.h"
+	<iostream>
+
+1478864125 source:d:\polygon\poligono.cpp
+	<iostream>
+	<math.h>
+	"point.h"
+	"pointarray.h"
+	"poligono.h"
+
+1478864125 d:\polygon\poligono.h
+	"point.h"
+	"pointarray.h"
+
